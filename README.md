@@ -19,7 +19,7 @@ results and helps make informed decisions under uncertainty
 (1) Access to the ipynb file (or html file just to watch, not perform any programming)
 consists of the Python code to generate simulations based on past stocks data.
 Then, we install the needed library in the part library installation.
-5
+
 
 
 (1) Gather the needed stock by filling the stock name and time (start and end).
